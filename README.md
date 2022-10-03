@@ -1,8 +1,5 @@
 ## E- Commerce
 
-## Walk trough
-
-
 ## User Story
 
 AS A manager at an internet retail company
